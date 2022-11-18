@@ -1,3 +1,5 @@
 Rencana kedepannya
 -ingin mempelajari bahasa pemograman lain
+*PHP
+*Mobile Dev
 -ingin membuka jasa pembuatan website

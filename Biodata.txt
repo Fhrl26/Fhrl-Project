@@ -2,5 +2,4 @@ Nama
 Umur 
 Alamat
 TTL
-Hobi
-Cita-cita
+Pekerjaan

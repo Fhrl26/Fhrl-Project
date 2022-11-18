@@ -1,0 +1,4 @@
+Nama
+Umur 
+Alamat
+TTL

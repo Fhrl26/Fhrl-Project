@@ -1,6 +1,7 @@
 Rencana kedepannya
 -ingin mempelajari bahasa pemograman lain
 *PHP
+ ~belajar
 *Mobile Dev
--ingin membuka jasa pembuatan website
 -ingin terus belajar bersyukur
+ ~belajar ngaji

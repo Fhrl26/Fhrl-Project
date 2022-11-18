@@ -2,6 +2,7 @@ Rencana kedepannya
 -ingin mempelajari bahasa pemograman lain
 *PHP
  ~membuat database
+ ~belajar terus
 *Mobile Dev
 -ingin membuka jasa pembuatan website
 -ingin terus belajar bersyukur

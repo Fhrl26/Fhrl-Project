@@ -1,5 +1,6 @@
 Nama
-Umur 
-Alamat
+Umur : 23 tahun
+Kota : Depok
+Alamat 
 TTL
 Pekerjaan
